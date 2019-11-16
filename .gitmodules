@@ -1,0 +1,4 @@
+[submodule "bmya/l10n-chile-11"]
+	path = bmya/l10n-chile-11
+	url = git@github.com:bmya/l10n-chile-11.git
+	branch = 11.0_dev_queue_fixes
